@@ -96,16 +96,9 @@ if (document.title === "MineXb360 MarketPlace") {
     });
 }
 
-if (document.title === "Detalhes") {
-    comparar(obRedrect);
-}
 
-if (document.title === "MineXb360 MarketPlace") {
-    
-    criarPaginas(txtobjetos , txtcontainer);
-    criarPaginas(sknobjetos , skncontainer);
-    criarPaginas(mpsobjetos , mpscontainer);
-}
+
+
 
 //==============================================================================================================================================
 
@@ -327,7 +320,6 @@ function criarPaginas(categoria, container) {
 
 
 
-
 function comparar(texto) {
     const infos = document.getElementById("apresentacao");
     const infosDownload = document.querySelector(".download");
@@ -534,3 +526,13 @@ function comparar(texto) {
     });
 }
 
+if (document.title === "MineXb360 MarketPlace") {
+    
+    criarPaginas(txtobjetos , txtcontainer);
+    criarPaginas(sknobjetos , skncontainer);
+    criarPaginas(mpsobjetos , mpscontainer);
+}
+
+if (document.title === "Detalhes") {
+    comparar(obRedrect);
+}
