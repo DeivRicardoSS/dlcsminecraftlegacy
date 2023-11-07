@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Detalhes</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="shortcut icon" href="../img/ICON.png" type="image/x-icon">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+</head>
+
+
+<script>
+    function preLoading() {
+        document.getElementsByClassName("carregamento")[0].style.display = 'none';
+    }
+</script>
+
+<body class="corpo" onload="preLoading()">
+    <section class="carregamento">
+        <div class="cube-loader">
+            <div class="cube-top"></div>
+            <div class="cube-wrapper">
+                <span class="cube-span" style="--i:0"></span>
+                <span class="cube-span" style="--i:1"></span>
+                <span class="cube-span" style="--i:2"></span>
+                <span class="cube-span" style="--i:3"></span>
+            </div>
+        </div>
+    </section>
+
+    <section class="donate-area" id="donateArea" onclick="fecharDonate()">
+        <div class="donatebox" id="donateBox" >
+            
+        </div>
+    </section>
+
+    <header class="cabec">
+
+        <a href="../index.html"><img src="../img/ICON.png" alt="" class="logo"></a>
+
+
+        <button class="btnTheme">theme</button>
+
+
+
+    </header>
+
+    <section class="areadlc">
+        <section class="areadlc-apresentacao" id="apresentacao">
+
+        </section>
+
+        <section class="areadlc-downloads">
+
+
+            <div class="criador">
+                <img src="../img/users/deivyson.png" alt="" class="profile">
+                <h4>DeivHD</h4>
+                <a href="https://www.instagram.com/deivyson_2005/"><i class="fa-brands fa-instagram"></i></a>
+                <a href='https://github.com/deivricardoss'><i class='fa-brands fa-github'></i></a>
+                <a href='https://discord.gg/9qMaMm5F'><i class='fa-brands fa-discord'></i></a>
+            </div>
+
+            <div class="sobre-o-criador">
+                <h5>Sobre o Criador</h5>
+                <p>Olá! Sou Deivyson Ricardo, um jovem amador do minecraft LCE (Minecraft Legacy Edition). Tenho como
+                    objetivo, melhorar a experiência dos jogadores ao jogar nessa versão do minecraft, mostrando que
+                    mesmo sendo uma versão antiga e única do minecraft, não devemos deixa-las no esquecimento. Espero
+                    que goste das minhas DLCs. Obrigado!</p>
+
+
+            </div>
+
+            <div class="donate">
+                <p>Fazer uma Doação</p>
+                <button onclick="abrirDonate()">Donate</button>
+            </div>
+
+            <div class="download">
+
+            </div>
+        </section>
+    </section>
+    
+
+
+    <script src="../js/js.js"></script>
+    <script src="../js/objetos.js"></script>
+    <script src="../js/theme.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
