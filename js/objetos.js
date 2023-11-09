@@ -384,7 +384,7 @@ function comparar(texto) {
 
             donateBox.innerHTML = `
             
-            <img src="${usuario.donate}" alt="doação">
+            <img src="../${usuario.donate}" alt="doação">
             
             `;
         }
@@ -452,7 +452,7 @@ function comparar(texto) {
 
             donateBox.innerHTML = `
             
-            <img src="${usuario.donate}" alt="doação">
+            <img src="../${usuario.donate}" alt="doação">
             
             `;
 
@@ -517,7 +517,7 @@ function comparar(texto) {
             `;
             donateBox.innerHTML = `
             
-            <img src="${usuario.donate}" alt="doação">
+            <img src="../${usuario.donate}" alt="doação">
             
             `;
         }
