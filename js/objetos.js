@@ -48,27 +48,27 @@ const usr1 = new Users("DeivHD", `
     objetivo, melhorar a experiência dos jogadores ao jogar nessa versão do minecraft, mostrando que
     mesmo sendo uma versão antiga e única do minecraft, não devemos deixa-las no esquecimento. Espero
     que goste das minhas DLCs. Obrigado!
-`, "<a target="_blank" href='https://www.instagram.com/deivyson_2005/'><i class='fa-brands fa-instagram'></i></a>", "<a target="_blank" href='https://github.com/deivricardoss'><i class='fa-brands fa-github'></i></a>", "<a target="_blank" href='https://discord.gg/9qMaMm5F'><i class='fa-brands fa-discord'></i></a>", "img/users/deivyson.png", "img/donate/PixDeivHD.png");
+`, "<a target='_blank' href='https://www.instagram.com/deivyson_2005/'><i class='fa-brands fa-instagram'></i></a>", "<a target='_blank' href='https://github.com/deivricardoss'><i class='fa-brands fa-github'></i></a>", "<a target='_blank' href='https://discord.gg/9qMaMm5F'><i class='fa-brands fa-discord'></i></a>", "img/users/deivyson.png", "img/donate/PixDeivHD.png");
 
 const usr2 = new Users("MW", `
 Eaew, sou MathuwsGamerMW! Modder que cria conteúdos extras para Minecraft Legacy Edition, como DLC e mapas super extraordinários para toda a comunidade.
-`, "<a target="_blank" href='https://m.facebook.com/profile.php/?id=100040792420270&name=xhp_nt__fb__action__open_user'><i class='fa-brands fa-facebook'></i></a>", "<a target="_blank" href='https://www.youtube.com/@MathuwsGamerMW'><i class='fa-brands fa-youtube'></i></a>", "<a target="_blank" href='https://discord.gg/9qMaMm5F'><i class='fa-brands fa-discord'></i></a>", "img/users/MW.jpg", "img/donate/PixMW.png");
+`, "<a target='_blank' href='https://m.facebook.com/profile.php/?id=100040792420270&name=xhp_nt__fb__action__open_user'><i class='fa-brands fa-facebook'></i></a>", "<a target='_blank' href='https://www.youtube.com/@MathuwsGamerMW'><i class='fa-brands fa-youtube'></i></a>", "<a target='_blank' href='https://discord.gg/9qMaMm5F'><i class='fa-brands fa-discord'></i></a>", "img/users/MW.jpg", "img/donate/PixMW.png");
 
 const usr3 = new Users("JanpiYT", `
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate totam ab corrupti dolore aliquid, architecto optio, corporis natus vitae, doloribus ut aut sapiente. Eaque vel cumque facere, omnis quidem deserunt.
-`, "<a target="_blank" href='https://m.facebook.com/profile.php/?id=100040792420270&name=xhp_nt__fb__action__open_user'><i class='fa-brands fa-facebook'></i></a>", "<a target="_blank" href='https://www.youtube.com/@janpiyt'><i class='fa-brands fa-youtube'></i></a>", "<a target="_blank" href='https://discord.gg/9qMaMm5F'><i class='fa-brands fa-discord'></i></a>", "img/users/janpiYT.jpg", "img/donate/unset.png");
+`, "<a target='_blank' href='https://m.facebook.com/profile.php/?id=100040792420270&name=xhp_nt__fb__action__open_user'><i class='fa-brands fa-facebook'></i></a>", "<a target='_blank' href='https://www.youtube.com/@janpiyt'><i class='fa-brands fa-youtube'></i></a>", "<a target='_blank' href='https://discord.gg/9qMaMm5F'><i class='fa-brands fa-discord'></i></a>", "img/users/janpiYT.jpg", "img/donate/unset.png");
 
 const usr4 = new Users("BLN", `
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate totam ab corrupti dolore aliquid, architecto optio, corporis natus vitae, doloribus ut aut sapiente. Eaque vel cumque facere, omnis quidem deserunt.
-`, "<a target="_blank" href='https://m.facebook.com/profile.php/?id=100040792420270&name=xhp_nt__fb__action__open_user'><i class='fa-brands fa-facebook'></i></a>", "<a target="_blank" href='https://www.youtube.com/@MathuwsGamerMW'><i class='fa-brands fa-youtube'></i></a>", "<a target="_blank" href='https://discord.gg/9qMaMm5F'><i class='fa-brands fa-discord'></i></a>", "img/users/BLN.jpg", "img/donate/unset.png");
+`, "<a target='_blank' href='https://m.facebook.com/profile.php/?id=100040792420270&name=xhp_nt__fb__action__open_user'><i class='fa-brands fa-facebook'></i></a>", "<a target='_blank' href='https://www.youtube.com/@MathuwsGamerMW'><i class='fa-brands fa-youtube'></i></a>", "<a target='_blank' href='https://discord.gg/9qMaMm5F'><i class='fa-brands fa-discord'></i></a>", "img/users/BLN.jpg", "img/donate/unset.png");
 
 const usr5 = new Users("Nobledez", `
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate totam ab corrupti dolore aliquid, architecto optio, corporis natus vitae, doloribus ut aut sapiente. Eaque vel cumque facere, omnis quidem deserunt.
-`, "<a target="_blank" href='https://m.facebook.com/profile.php/?id=100040792420270&name=xhp_nt__fb__action__open_user'><i class='fa-brands fa-facebook'></i></a>", "<a target="_blank" href='https://www.youtube.com/@MathuwsGamerMW'><i class='fa-brands fa-youtube'></i></a>", "<a target="_blank" href='https://discord.gg/9qMaMm5F'><i class='fa-brands fa-discord'></i></a>", "img/users/nobledez.png", "img/donate/unset.png");
+`, "<a target='_blank' href='https://m.facebook.com/profile.php/?id=100040792420270&name=xhp_nt__fb__action__open_user'><i class='fa-brands fa-facebook'></i></a>", "<a target='_blank' href='https://www.youtube.com/@MathuwsGamerMW'><i class='fa-brands fa-youtube'></i></a>", "<a target='_blank' href='https://discord.gg/9qMaMm5F'><i class='fa-brands fa-discord'></i></a>", "img/users/nobledez.png", "img/donate/unset.png");
 
 const usr6 = new Users("jenerickmen3", `
 Olá, eu sou jenerick_men3, eu crio dlcs para Minecraft de xbox 360, eu crio uma ou outra skin pack ou textura a cada ano por preguiça, mas ainda sim sou apaixonado por minecraft.
-`, "<a target="_blank" href='https://m.facebook.com/profile.php/?id=100040792420270&name=xhp_nt__fb__action__open_user'><i class='fa-brands fa-facebook'></i></a>", "<a target="_blank" href='https://youtube.com/@jenerickmen?si=PkQEMeoXwHyvqs0w'><i class='fa-brands fa-youtube'></i></a>", "<a target="_blank" href='https://discord.gg/9qMaMm5F'><i class='fa-brands fa-discord'></i></a>", "img/users/jenerickmen3.jpeg", "img/donate/unset.png");
+`, "<a target='_blank' href='https://m.facebook.com/profile.php/?id=100040792420270&name=xhp_nt__fb__action__open_user'><i class='fa-brands fa-facebook'></i></a>", "<a target='_blank' href='https://youtube.com/@jenerickmen?si=PkQEMeoXwHyvqs0w'><i class='fa-brands fa-youtube'></i></a>", "<a target='_blank' href='https://discord.gg/9qMaMm5F'><i class='fa-brands fa-discord'></i></a>", "img/users/jenerickmen3.jpeg", "img/donate/unset.png");
 
 const usrcontainer = document.querySelector(".colaboradores");
 
@@ -366,7 +366,7 @@ function comparar(texto) {
 
             infosDownload.innerHTML = `
       <p>Baixe sua DLC aqui!</p>
-      <a target="_blank" href="${objeto.download}"  download="">Download</a>
+      <a target='_blank' href="${objeto.download}"  download="">Download</a>
       `;
         
       usrobjetos.forEach(usuario =>{
@@ -434,7 +434,7 @@ function comparar(texto) {
 
             infosDownload.innerHTML = `
       <p>Baixe sua DLC aqui!</p>
-      <a target="_blank" href="${objeto.download}"  download="">Download</a>
+      <a target='_blank' href="${objeto.download}"  download="">Download</a>
       `;
 
       usrobjetos.forEach(usuario =>{
@@ -500,7 +500,7 @@ function comparar(texto) {
 
             infosDownload.innerHTML = `
       <p>Baixe sua DLC aqui!</p>
-      <a target="_blank" href="${objeto.download}" download="">Download</a>
+      <a target='_blank' href="${objeto.download}" download="">Download</a>
       `;
 
       usrobjetos.forEach(usuario =>{
