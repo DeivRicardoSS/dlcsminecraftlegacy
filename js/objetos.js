@@ -69,7 +69,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate totam ab corr
 
 const usr6 = new Users("jenerickmen3", `
 Olá, eu sou jenerick_men3, eu crio dlcs para Minecraft de xbox 360, eu crio uma ou outra skin pack ou textura a cada ano por preguiça, mas ainda sim sou apaixonado por minecraft.
-`, "<a href='https://m.facebook.com/profile.php/?id=100040792420270&name=xhp_nt__fb__action__open_user'><i class='fa-brands fa-facebook'></i></a>", "<a href='https://youtube.com/@jenerickmen?si=PkQEMeoXwHyvqs0w'><i class='fa-brands fa-youtube'></i></a>", "<a href='https://discord.gg/9qMaMm5F'><i class='fa-brands fa-discord'></i></a>", "img/users/jenerickmen3.jpg", "img/donate/unset.png");
+`, "<a href='https://m.facebook.com/profile.php/?id=100040792420270&name=xhp_nt__fb__action__open_user'><i class='fa-brands fa-facebook'></i></a>", "<a href='https://youtube.com/@jenerickmen?si=PkQEMeoXwHyvqs0w'><i class='fa-brands fa-youtube'></i></a>", "<a href='https://discord.gg/9qMaMm5F'><i class='fa-brands fa-discord'></i></a>", "img/users/jenerickmen3.jpeg", "img/donate/unset.png");
 
 const usrcontainer = document.querySelector(".colaboradores");
 
