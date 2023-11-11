@@ -23,9 +23,6 @@ function fecharDonate(){
 
 
 
-
-
-
 const obRedrect = localStorage.getItem("objecttoredirect") || "vazio";
 
 
